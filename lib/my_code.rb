@@ -15,7 +15,7 @@ def reduce(array, starting_point=nil)
     counter = 0
   else
     total = 0
-    counter = 1
+    counter = 0
   end 
   
   while

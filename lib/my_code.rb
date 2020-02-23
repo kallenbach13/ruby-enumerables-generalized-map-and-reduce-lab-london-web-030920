@@ -14,7 +14,7 @@ def reduce(array, starting_point=nil)
     total = starting_point
     counter = 0
   else
-    total = array[0]
+    total = 0
     counter = 1
   end 
   
